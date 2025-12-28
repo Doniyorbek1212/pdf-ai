@@ -1,0 +1,8 @@
+{
+  "name": "PDF.uz AI",
+  "description": "Universal AI assistant for document processing, photo editing, PDF chatting, and voice interaction. Created by Abdujabborov Doniyorbek from Chust, Namangan.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
